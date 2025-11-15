@@ -35,7 +35,7 @@ spec:
             count: 2
             type: gpu
             product: Tesla-V100-SXM3-32GB
-    Worker:
+    worker:
       count: 1
       resources:
         cpus: 4

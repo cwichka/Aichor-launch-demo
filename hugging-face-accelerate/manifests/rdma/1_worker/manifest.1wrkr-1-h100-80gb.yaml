@@ -31,7 +31,7 @@ spec:
   #     provider: "github"
 
   types:
-    Worker:
+    worker:
       count: 1
       resources:
         cpus: 2

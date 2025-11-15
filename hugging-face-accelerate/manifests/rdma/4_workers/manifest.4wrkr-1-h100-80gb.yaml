@@ -47,7 +47,7 @@ spec:
             count: 1
             type: gpu
             product: NVIDIA-H100-80GB-HBM3
-    Worker:
+    worker:
       count: 3
       resources:
         cpus: 2
